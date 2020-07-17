@@ -769,7 +769,7 @@ async def google(ctx):
     await ctx.send("https://www.google.com/#q=" + "+".join(params[1:]))
 
 
-client.run('NjY4ODc2NjI3MjI4NDkxNzg5.Xv40wA.pOmJtnjteCVBsTC252rPHOT0uPU')
+client.run(TOKEN')
 
 # --------------------------------------------------------------------------#
 # --------------------------------------------------------------------------#
